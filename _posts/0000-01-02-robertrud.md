@@ -1,7 +1,8 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Ha ha! Malamalca!!"
 ---
-> Pa sem našel
-> -Robert
-Use the left arrow to go back!
+> Pa sem našel  
+>  -Robert  
+
+Nazaj! <--
